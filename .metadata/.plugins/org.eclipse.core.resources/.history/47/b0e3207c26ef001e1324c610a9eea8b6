@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class P_M_12 {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.print("정수를 입력하세요 : ");
+		int d = scan.nextInt();
+		
+
+	}
+
+}
